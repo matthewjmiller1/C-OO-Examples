@@ -53,8 +53,8 @@
  *
  * \section sec_usage Usage
  *
- * Just run \c make and the \c test_obj_c test program will be run.  You can
- * edit \c test_obj_c.c to try various things with this class hierarchy.
+ * Just run \c make and the \c test_c_oo test program will be run.  You can
+ * edit \c test_c_oo.c to try various things with this class hierarchy.
  * Running <tt>make clean</tt> will remove the executable and .o files.
  *
  * @section sec_license GNU General Public License
