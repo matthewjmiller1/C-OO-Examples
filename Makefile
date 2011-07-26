@@ -44,5 +44,5 @@ doc:
 	cd doc/latex; pdflatex refman.tex
 
 tar:
-	tar -czvhf $(NAME).tar.gz ../$(NAME) --exclude *.swp --exclude *.o \
+	tar -czvf $(NAME).tar.gz ../$(NAME) --exclude *.swp --exclude *.o \
         --exclude test_$(NAME) --exclude $(NAME).tar.gz
