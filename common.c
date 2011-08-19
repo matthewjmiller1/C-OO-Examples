@@ -57,7 +57,7 @@ my_rc_e_is_notok (my_rc_e rc)
  * Indicates whether the return code is in error.
  *
  * @param rc The return code to check
- * @return true if the return code is in error.
+ * @return true if the return code is not in error.
  */
 bool
 my_rc_e_is_ok (my_rc_e rc)
